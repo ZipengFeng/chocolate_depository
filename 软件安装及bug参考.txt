@@ -1,0 +1,9 @@
+# 在各种软件、库的安装和使用过程中，不断入坑脱坑，总结的值得参考的解决方案。
+
+1.linux下caffe安装和配置（仅CPU）
+http://blog.csdn.net/u011762313/article/details/47262549
+注：source /etc/profile之后，会出现打开其他终端依然无法import caffe的问题。所以在这一步之后建议重启电脑。
+
+2.caffe的prototxt文件中，数据路径出错的问题
+http://stackoverflow.com/questions/28031841/hdf5-diag-error-detected-in-hdf5-1-8-11?newreg=a43eb372cce949d3b09bbcc9530014fc
+注：应当建一个txt文件，文件内保存数据的路径，然后直接将txt文件的位置设置为prototxt文件中的路径。
