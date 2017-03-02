@@ -1,2 +1,2 @@
-# chocolate-storage
-Chocolate-storage shared by fengzipeng.
+# chocolate_depository
+Chocolate_depository shared by fengzipeng.
