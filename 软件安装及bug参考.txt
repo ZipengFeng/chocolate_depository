@@ -1,4 +1,4 @@
-# 在各种软件、库的安装和使用过程中，不断入坑脱坑，总结的值得参考的解决方案。
+﻿# 在各种软件、库的安装和使用过程中，不断入坑脱坑，总结的值得参考的解决方案。
 
 1.linux下caffe安装和配置（仅CPU）
 http://blog.csdn.net/u011762313/article/details/47262549
@@ -7,3 +7,20 @@ http://blog.csdn.net/u011762313/article/details/47262549
 2.caffe的prototxt文件中，数据路径出错的问题
 http://stackoverflow.com/questions/28031841/hdf5-diag-error-detected-in-hdf5-1-8-11?newreg=a43eb372cce949d3b09bbcc9530014fc
 注：应当建一个txt文件，文件内保存数据的路径，然后直接将txt文件的位置设置为prototxt文件中的路径。
+
+3.github使用
+（1）linux下使用及各种操作：
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+（2）windows下克隆远程版本库：
+http://blog.csdn.net/wh_19910525/article/details/8128916
+注：步骤如下：①建立指定文件夹，初始化本地仓库
+              ②在github网站上登录，进入仓库，复制仓库的地址（ssh那个）
+              ③将$ git clone git@github.com:liu9963xia/gitskills.git 改成 $ git clone https://github.com/liu9963xia/gitskills.git
+
+4.VS配置opencv
+http://blog.csdn.net/poem_qianmo/article/details/19809337
+
+5.Android studio配置opencv
+（1）http://blog.csdn.net/zxx20145/article/details/53020964?utm_source=itdadao&utm_medium=referral
+（2）http://blog.csdn.net/martin20150405/article/details/53284442
+较简便，只需配置cmake。建议按照给出的下载Demo来配置。
