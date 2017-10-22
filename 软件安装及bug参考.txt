@@ -24,3 +24,6 @@ http://blog.csdn.net/poem_qianmo/article/details/19809337
 （1）http://blog.csdn.net/zxx20145/article/details/53020964?utm_source=itdadao&utm_medium=referral
 （2）http://blog.csdn.net/martin20150405/article/details/53284442
 较简便，只需配置cmake。建议按照给出的下载Demo来配置。
+
+6.sublime3支持中文输入(必须通过终端subl命令启动)
+ https://github.com/lyfeyaj/sublime-text-imfix
