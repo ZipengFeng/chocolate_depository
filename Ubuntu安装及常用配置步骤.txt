@@ -25,3 +25,6 @@ http://www.cnblogs.com/windinsky/archive/2012/09/25/2701851.html
 7.安装jupyter notebook
 http://blog.csdn.net/lee_j_r/article/details/52791228
 安装python3版本的，需要将pip改成pip3
+
+8.安装sublime3并支持中文输入(必须通过终端subl命令启动)
+ https://github.com/lyfeyaj/sublime-text-imfix
