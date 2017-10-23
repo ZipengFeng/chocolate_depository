@@ -1,6 +1,8 @@
 1.下载ubuntu镜像iso文件。
+
 2.制作u盘启动盘。
 https://jingyan.baidu.com/article/19020a0a396b6e529d2842cb.html
+
 3.开始安装。
 http://blog.csdn.net/pop_rain/article/details/70477085
 
