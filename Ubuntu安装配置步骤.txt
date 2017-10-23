@@ -1,0 +1,19 @@
+4.安装搜狗输入法
+https://jingyan.baidu.com/article/a3aad71aa1abe7b1fa009641.html
+非常有用的一点：
+修复依赖关系完成搜狗拼音输入法的安装，在终端执行以下命令(联网)
+
+                $sudo apt-get install -f 
+
+5.更换新源
+系统设置-软件和更新-“源代码”打钩-“来自于”选择阿里云/清华/科大源都可以
+若出现错误：E:Problem executing scripts APT::Update::Post-Invoke-Success 'if /usr/bin/test -w /var/cache/app-info -a -e /usr/bin/appstreamcli; then appstreamcli refresh > /dev/null; fi', E:Sub-process returned an error code
+参考http://www.cnblogs.com/EasonJim/p/7343892.html
+
+6.更换Python3为默认版本（如有需要）
+http://www.cnblogs.com/windinsky/archive/2012/09/25/2701851.html
+其中，删除文件指令为：sudo rm python
+
+7.安装jupyter notebook
+http://blog.csdn.net/lee_j_r/article/details/52791228
+安装python3版本的，需要将pip改成pip3
