@@ -12,6 +12,7 @@ https://jingyan.baidu.com/article/a3aad71aa1abe7b1fa009641.html
 修复依赖关系完成搜狗拼音输入法的安装，在终端执行以下命令(联网)
 
                 $sudo apt-get install -f 
+修复按shift键不能使英文上屏的问题
 
 5.更换新源
 系统设置-软件和更新-“源代码”打钩-“来自于”选择阿里云/清华/科大源都可以
