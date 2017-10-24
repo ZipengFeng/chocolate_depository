@@ -25,6 +25,8 @@ http://www.cnblogs.com/windinsky/archive/2012/09/25/2701851.html
 其中，删除文件指令为：sudo rm python
 
 7.安装jupyter notebook
+首先安装pip3.指令为：sudo apt-get install python3-pip
+然后：
 http://blog.csdn.net/lee_j_r/article/details/52791228
 安装python3版本的，需要将pip改成pip3
 
