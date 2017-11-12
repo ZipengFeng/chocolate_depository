@@ -1,3 +1,5 @@
 1.贝叶斯估计与最大似然估计,理论与实例，清晰易懂。
 http://qinshaoq.blog.ustc.edu.cn/?p=47
 
+2.latex常用数学符号
+http://mohu.org/info/symbols/symbols.htm
