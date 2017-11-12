@@ -25,5 +25,11 @@ http://blog.csdn.net/poem_qianmo/article/details/19809337
 （2）http://blog.csdn.net/martin20150405/article/details/53284442
 较简便，只需配置cmake。建议按照给出的下载Demo来配置。
 
-6.sublime3支持中文输入(必须通过终端subl命令启动)
+6.linux下sublime3支持中文输入(必须通过终端subl命令启动)
  https://github.com/lyfeyaj/sublime-text-imfix
+
+7.基于TeXlive,使用Sublime Text 3编写LaTeX
+http://blog.csdn.net/qazxswed807/article/details/51234834
+修改之处：在控制台下输博文中给出的代码可能会出错，可以打开https://packagecontrol.io/installation，复制里面的网址。
+latex入门教程：
+file:///C:/Users/Administrator/Desktop/latex%E5%85%A5%E9%97%A8-%E7%AE%80%E7%89%88%20-%20%E5%88%98%E6%B5%B7%E6%B4%8B.pdf
