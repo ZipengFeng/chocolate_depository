@@ -3,3 +3,6 @@ http://qinshaoq.blog.ustc.edu.cn/?p=47
 
 2.latex常用数学符号
 http://mohu.org/info/symbols/symbols.htm
+
+3.SIFT特征检测与匹配
+http://blog.sciencenet.cn/blog-261330-711205.html
