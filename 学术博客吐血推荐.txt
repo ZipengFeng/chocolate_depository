@@ -1,3 +1,5 @@
+了解这个知识点，一文就够了！
+
 1.贝叶斯估计与最大似然估计,理论与实例，清晰易懂。
 http://qinshaoq.blog.ustc.edu.cn/?p=47
 
@@ -6,3 +8,6 @@ http://mohu.org/info/symbols/symbols.htm
 
 3.SIFT特征检测与匹配
 http://blog.sciencenet.cn/blog-261330-711205.html
+
+4.混合高斯模型做前景分割
+https://blog.csdn.net/u014568921/article/details/46685003
