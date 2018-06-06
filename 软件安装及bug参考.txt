@@ -43,3 +43,6 @@ http://blog.csdn.net/qins_superlover/article/details/44783071
 该文件夹常为隐藏文件夹。查找隐藏文件夹的方法如下：
 http://www.xitongzhijia.net/xtjc/20141113/30170.html
 直接放在 anaconda3 文件夹下即可。
+
+9.Latex的更优选择：TexLive + TexStudio + SumatraPDF:
+https://blog.csdn.net/niruo_chengfeng/article/details/61952467
